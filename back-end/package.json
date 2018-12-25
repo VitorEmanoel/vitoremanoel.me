@@ -1,0 +1,19 @@
+{
+  "name": "vitoremanoel.me",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Vitor Emanoel Lacerda Amorim <vitore88@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node bin/start",
+    "dev": "nodemon bin/start"
+  },
+  "dependencies": {
+    "@types/express": "^4.16.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}

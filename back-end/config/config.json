@@ -1,0 +1,10 @@
+{
+  "web": {
+    "port": 1000
+  },
+  "database": {
+    "host": "localhost",
+    "database": "vitoremanoel"
+  }
+
+}
